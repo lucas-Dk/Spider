@@ -3,7 +3,7 @@
 Bem vindo!
 
 Este script conecta ao site que vc quer
-E retorna seu html armazenando
+e retorna seu html armazenando
 Em um arquivo.txt que ele mesmo cria
 
 Para obter:
